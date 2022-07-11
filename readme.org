@@ -1,0 +1,4 @@
+#+title: POC cabal data file config
+
+- sample app to play with [[https://neilmitchell.blogspot.com/2008/02/adding-data-files-using-cabal.html][Adding data files using Cabal]]
+- good example to follow [[https://github.com/ndmitchell/hoogle][Hoogle source code]]
